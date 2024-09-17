@@ -1,0 +1,6 @@
+LETRA A: sequência de números ímpares -> próximo número: 9
+LETRA B: dobro do número anterior -> próximo número: 64x2 = 128
+LETRA C: números inteiros ao quadrado -> próximo número: 7^2 = 49
+LETRA D: números pares ao quadrado -> próximo número: 10^2 = 100
+LETRA E: sequência Fibonacci -> próximo número: 5 + 8 = 13
+LETRA F: adicionando 1 -> próximo número: 19 + 1 = 20
